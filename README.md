@@ -80,11 +80,3 @@ ciphertext = "RIJVSUYVJN"
 decrypted_message = vigenere_decrypt(ciphertext, keyword)
 print("Decrypted message:", decrypted_message)  # Output: 'HELLOWORLD'
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions to this project are welcome. If you find any bugs, have suggestions for improvements, or would like to add new features, please feel free to submit a pull request.
